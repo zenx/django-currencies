@@ -23,7 +23,7 @@ class Command(NoArgsCommand):
 	def handle_noargs(self, **options):
 		print("Querying currencies at %s" % (CURRENCY_API_URL))
 		api = urlopen(CURRENCY_API_URL)
-		d = json.loads(api.read())
+		d = json.loads(api.read().decode('utf-8'))
 
 		if "timestamp" in d:
 			print("Rates last updated on %s" % (datetime.fromtimestamp(d["timestamp"]).strftime("%Y-%m-%d %H:%M:%S")))

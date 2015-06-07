@@ -23,7 +23,7 @@ class Command(BaseCommand):
 			currencies = list(args)
 
 		api = urlopen(CURRENCY_API_URL)
-		d = json.loads(api.read())
+		d = json.loads(api.read().decode('utf-8'))
 		i = 0
 
 		for currency in sorted(d.keys()):
