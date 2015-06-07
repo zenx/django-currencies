@@ -1,7 +1,10 @@
 import json
 from datetime import datetime
 from decimal import Decimal
-from urllib2 import urlopen
+try:
+    from urllib.request import urlopen
+except ImportError:
+    from urllib2 import urlopen
 from django.conf import settings
 from django.core.exceptions import ImproperlyConfigured
 from django.core.management.base import CommandError, NoArgsCommand
