@@ -17,7 +17,7 @@ def set_currency(request):
     if currency_code:
         if hasattr(request, 'session'):
             request.session['currency'] = \
-                Currency.objects.get(code__exact=currency_code)
+                Currency.objects.get(code__exact=currency_code).id
         else:
             response.set_cookie('currency', currency_code)
     return response
