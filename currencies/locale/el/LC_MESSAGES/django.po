@@ -34,7 +34,7 @@ msgstr "παράγοντας"
 
 #: models.py:10
 msgid "Specifies the difference of the currency to default one."
-msgstr "Προσδιορίζει τη διαφόρα του νομίσματος ως προς το προεπιλεμένο (νόμισμα)."
+msgstr "Προσδιορίζει τη διαφορά του νομίσματος ως προς το προεπιλεγμένο."
 
 #: models.py:11
 msgid "active"
@@ -46,7 +46,7 @@ msgstr "Το νόμισμα θα είναι διαθέσιμο."
 
 #: models.py:13
 msgid "default"
-msgstr "προεπιλεμένο"
+msgstr "προεπιλεγμένο"
 
 #: models.py:14
 msgid "Make this the default currency."
