@@ -29,11 +29,11 @@ msgstr "símbolo"
 
 #: models.py:9
 msgid "factor"
-msgstr "factor"
+msgstr ""
 
 #: models.py:10
 msgid "Specifies the difference of the currency to default one."
-msgstr "Especifica la diferencia de esta moneda respecto a la usada por defecto."
+msgstr "Especifica la diferencia de la moneda con respecto a la predeterminada."
 
 #: models.py:11
 msgid "active"
@@ -41,7 +41,7 @@ msgstr "activo"
 
 #: models.py:12
 msgid "The currency will be available."
-msgstr "La moneda va a estar activa."
+msgstr "La moneda estará disponible."
 
 #: models.py:13
 msgid "default"
@@ -49,7 +49,7 @@ msgstr "por defecto"
 
 #: models.py:14
 msgid "Make this the default currency."
-msgstr "Hacer que ésta sea la moneda por defecto."
+msgstr "Hacer que esta sea la moneda predeterminada."
 
 #: models.py:17
 msgid "currency"
@@ -58,4 +58,3 @@ msgstr "moneda"
 #: models.py:18
 msgid "currencies"
 msgstr "monedas"
-
