@@ -3,18 +3,23 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Panos Laganakos <panos.laganakos@gmail.com>, 2009.
 #
-#, fuzzy
+# ΚΑΠΟΙΟΣ ΠΕΡΙΓΡΑΦΙΚΟΣ ΤΙΤΛΟΣ.
+# Πνευματικά δικαιώματα (C) ΧΡΟΝΟΠΕΡΙΟΔΟΣ Ο ΚΑΤΟΧΟΣ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ ΤΗΣ ΣΥΣΚΕΥΑΣΙΑΣ
+# Αυτό το αρχείο διανέμεται υπό την ίδια άδεια με την συσκευασία PACKAGE.
+# Πάνος Λαγκάκος <panos.laganakos@gmail.com>, 2009.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-06-07 00:00+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Revisiondate: 2024-09-29 22:56+0000\n"
 
 #: models.py:6
 msgid "code"
@@ -34,7 +39,7 @@ msgstr ""
 
 #: models.py:10
 msgid "Specifies the difference of the currency to default one."
-msgstr ""
+msgstr "Ορίζει την διαφορά του νομίσματος σε σχέση με το προεπιλεγμένο."
 
 #: models.py:11
 msgid "active"
@@ -42,7 +47,7 @@ msgstr ""
 
 #: models.py:12
 msgid "The currency will be available."
-msgstr ""
+msgstr "Το νόμισμα θα είναι διαθέσιμο."
 
 #: models.py:13
 msgid "default"
@@ -50,7 +55,7 @@ msgstr ""
 
 #: models.py:14
 msgid "Make this the default currency."
-msgstr ""
+msgstr "Κάντε το αυτό το προεπιλεγμένο νόμισμα."
 
 #: models.py:17
 msgid "currency"
