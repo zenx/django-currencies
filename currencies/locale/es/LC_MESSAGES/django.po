@@ -33,15 +33,15 @@ msgstr "factor"
 
 #: models.py:10
 msgid "Specifies the difference of the currency to default one."
-msgstr "Especifica la diferencia de esta moneda respecto a la usada por defecto."
+msgstr ""
 
 #: models.py:11
 msgid "active"
-msgstr "activo"
+msgstr ""
 
 #: models.py:12
 msgid "The currency will be available."
-msgstr "La moneda va a estar activa."
+msgstr ""
 
 #: models.py:13
 msgid "default"
@@ -49,7 +49,7 @@ msgstr "por defecto"
 
 #: models.py:14
 msgid "Make this the default currency."
-msgstr "Hacer que ésta sea la moneda por defecto."
+msgstr ""
 
 #: models.py:17
 msgid "currency"
