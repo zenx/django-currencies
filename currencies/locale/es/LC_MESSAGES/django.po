@@ -45,7 +45,7 @@ msgstr ""
 
 #: models.py:13
 msgid "default"
-msgstr "por defecto"
+msgstr ""
 
 #: models.py:14
 msgid "Make this the default currency."
@@ -53,7 +53,7 @@ msgstr ""
 
 #: models.py:17
 msgid "currency"
-msgstr "moneda"
+msgstr ""
 
 #: models.py:18
 msgid "currencies"
