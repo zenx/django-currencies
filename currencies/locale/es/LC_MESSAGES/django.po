@@ -9,11 +9,12 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-06-07 00:00+0300\n"
 "PO-Revision-Date: 2011-02-25 16:54+0100\n"
-"Last-Translator: Antonio Mel <antonio@antoniomele.es>\n"
+"Last-Translator: translatte.AI <autopilot@translatte.ai>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Revisiondate: 2024-09-30 10:13+0000\n"
 
 #: models.py:6
 msgid "code"
@@ -33,15 +34,15 @@ msgstr "factor"
 
 #: models.py:10
 msgid "Specifies the difference of the currency to default one."
-msgstr ""
+msgstr "Especifica la diferencia de la moneda con respecto a la predeterminada."
 
 #: models.py:11
 msgid "active"
-msgstr ""
+msgstr "activo"
 
 #: models.py:12
 msgid "The currency will be available."
-msgstr ""
+msgstr "La moneda estará disponible."
 
 #: models.py:13
 msgid "default"
@@ -49,7 +50,7 @@ msgstr "por defecto"
 
 #: models.py:14
 msgid "Make this the default currency."
-msgstr ""
+msgstr "Haz de esta la moneda predeterminada."
 
 #: models.py:17
 msgid "currency"
@@ -58,4 +59,3 @@ msgstr "moneda"
 #: models.py:18
 msgid "currencies"
 msgstr "monedas"
-
