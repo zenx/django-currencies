@@ -1,3 +1,4 @@
+```
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
@@ -33,29 +34,29 @@ msgstr "factor"
 
 #: models.py:10
 msgid "Specifies the difference of the currency to default one."
-msgstr ""
+msgstr "Especifica la diferencia de la moneda con respecto a la moneda por defecto."
 
 #: models.py:11
 msgid "active"
-msgstr ""
+msgstr "activo"
 
 #: models.py:12
 msgid "The currency will be available."
-msgstr ""
+msgstr "La moneda estará disponible."
 
 #: models.py:13
 msgid "default"
-msgstr ""
+msgstr "por defecto"
 
 #: models.py:14
 msgid "Make this the default currency."
-msgstr ""
+msgstr "Hacer de esta la moneda por defecto."
 
 #: models.py:17
 msgid "currency"
-msgstr ""
+msgstr "moneda"
 
 #: models.py:18
 msgid "currencies"
 msgstr "monedas"
-
+```
