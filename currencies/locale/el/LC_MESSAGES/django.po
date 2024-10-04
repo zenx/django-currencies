@@ -18,44 +18,44 @@ msgstr ""
 
 #: models.py:6
 msgid "code"
-msgstr ""
+msgstr "κωδικός"
 
 #: models.py:7
 msgid "name"
-msgstr ""
+msgstr "όνομα"
 
 #: models.py:8
 msgid "symbol"
-msgstr ""
+msgstr "σύμβολο"
 
 #: models.py:9
 msgid "factor"
-msgstr ""
+msgstr "παράγοντας"
 
 #: models.py:10
 msgid "Specifies the difference of the currency to default one."
-msgstr ""
+msgstr "Καθορίζει τη διαφορά του νομίσματος σε σχέση με το προεπιλεγμένο."
 
 #: models.py:11
 msgid "active"
-msgstr ""
+msgstr "ενεργό"
 
 #: models.py:12
 msgid "The currency will be available."
-msgstr ""
+msgstr "Το νόμισμα θα είναι διαθέσιμο."
 
 #: models.py:13
 msgid "default"
-msgstr ""
+msgstr "προεπιλεγμένο"
 
 #: models.py:14
 msgid "Make this the default currency."
-msgstr ""
+msgstr "Κάντε αυτό το νόμισμα προεπιλεγμένο."
 
 #: models.py:17
 msgid "currency"
-msgstr ""
+msgstr "νόμισμα"
 
 #: models.py:18
 msgid "currencies"
-msgstr ""
+msgstr "νομίσματα"
